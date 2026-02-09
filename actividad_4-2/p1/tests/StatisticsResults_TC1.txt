@@ -1,0 +1,2 @@
+Count,Mean,Median,Mode,Standard Deviation,Variance,Time
+400,242.32,239.5,393.0,145.44002062361477,21152.79959899749,0.000707
